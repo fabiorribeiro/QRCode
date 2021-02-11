@@ -7,3 +7,4 @@ Links de referência:
 
 Norma internacional para criação do QR Code:
 * JIS X 0510:2018
+* ISO/IEC 18004
